@@ -3,9 +3,9 @@ We are a free, open-sourced service to provide `is-an-ai.dev` subdomains for eve
 
 ---
 
-- **Main Page**: [www.is-an-ai.dev](https://is-an-ai.dev)
+- **Main Page**: [is-an-ai.dev](https://is-an-ai.dev)
 - **Docs**: [docs.is-an-ai.dev](https://docs.is-an-ai.dev)
-- **Register repo**: [is-an-ai-dev/manage](https://github.com/is-an-ai-dev/manage)
+- **Register repo**: [is-an-ai-dev/register](https://github.com/is-an-ai-dev/register)
 - **Donate**: [donate.is-an-ai.dev](https://donate.is-an-ai.dev)
 - **Discord**: [discord.is-an-ai.dev](https://discord.is-an-ai.dev)
 
